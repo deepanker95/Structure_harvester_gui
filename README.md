@@ -1,6 +1,6 @@
 # HarvestEase GUI
 
-![HarvestEase GUI](https://drive.google.com/file/d/1luqsDEjFF7-Re5gfVvy9JUysXDHsiRIg/view?usp=sharing)
+![HarvestEase GUI](https://github.com/deepanker95/Structure_harvester_gui/blob/main/Screenshot%202025-03-27%20174420.png)
 
 ## Overview
 **HarvestEase GUI** is a standalone, cross-platform graphical user interface designed as an offline alternative to **STRUCTURE HARVESTER**. This tool automates the parsing, visualization, and interpretation of STRUCTURE output files, implementing the **Evanno method** for determining the optimal number of genetic clusters (*K*).
