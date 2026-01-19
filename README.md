@@ -61,3 +61,16 @@ SOFTWARE.
 
 ## Contact
 For issues, suggestions, or contributions, please open an issue on [GitHub](https://github.com/deepanker95/Structure_harvester_gui) or contact [deepankernireh@gmail.com].
+## Attribution and upstream software
+
+HarvestEase GUI incorporates and extends logic derived from the original
+STRUCTURE HARVESTER software developed by Earl & VonHoldt (2012), which
+implements the Evanno method for estimating the optimal number of genetic
+clusters (K).
+
+The original STRUCTURE HARVESTER project is available at:
+https://github.com/dentearl/structureHarvester
+
+HarvestEase GUI provides a modified, validated, and fully offline graphical
+implementation with additional automation, visualization, and cross-platform
+support.
